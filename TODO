@@ -1,0 +1,26 @@
+# uyga vazifa
+
+1) UserRetrieveUpdateDestroyAPIView ning serializerlarini sozlash
+
+2) https://django-filter.readthedocs.io/en/stable/guide/rest_framework.html
+
+3) https://www.django-rest-framework.org/api-guide/pagination/
+
+4) drf_spectacular -> https://drf-spectacular.readthedocs.io/en/latest/
+
+5) Category (id, name)
+
+6) Product (id, name, price, count, image, category[], owner[])
+
+7) django - filter (Product{name, category, price}), (Category(name, ))
+
+
+
+
+login, logout, register
+
+Basic
+Session
+Token
+
+
